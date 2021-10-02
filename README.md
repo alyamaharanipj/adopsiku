@@ -8,7 +8,7 @@ adopsiku is website based application to facilitate adopter for adopting pet fro
 - Manage pet offers
 - Manage adoption requests
 - Manage pet condition reports after its adopted
-- Notification schedule for condition report
+- Notification scheduler for condition report
 - Real time chat
 - Email notification
 
