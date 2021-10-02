@@ -13,3 +13,23 @@ adopsiku is website based application to facilitate adopter for adopting pet fro
 - Email notification
 
 # Screenshot
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster1.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster2.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster3.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster4.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster5.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster6.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster7.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster8.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster9.png)
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster10.png)
