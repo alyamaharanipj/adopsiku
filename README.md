@@ -51,4 +51,4 @@ adopsiku is website based application to facilitate adopter for adopting pet fro
 ![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster10.png)
 
 # Note
-Available on: adopsiku.site
+Available on: https://www.adopsiku.site/
