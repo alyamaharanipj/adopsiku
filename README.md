@@ -22,21 +22,31 @@ adopsiku is website based application to facilitate adopter for adopting pet fro
 
 ![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster1.png)
 
+- Dashboard shelter
+
 ![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster2.png)
+
+- Real time chat
 
 ![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster3.png)
 
-![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster4.png)
+- Adoption requests list
 
 ![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster5.png)
 
-![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster6.png)
-
 ![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster7.png)
+
+- Adoption request detail
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster4.png)
+
+- Pet condition reports list
+
+![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster6.png)
 
 ![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster8.png)
 
-![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster9.png)
+- Pet condition report detail
 
 ![](https://github.com/alyamaharanipj/adopsiku/blob/main/screenshot/poster10.png)
 
